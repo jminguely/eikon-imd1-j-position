@@ -1,0 +1,13 @@
+/* 1. Position STATIC */
+
+.exercice-static .block-green {
+  position: absolute;
+  left: 50%;
+}
+
+.exercice-absolute-2 .block-red {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%) rotate(30deg) scale(2);
+}
